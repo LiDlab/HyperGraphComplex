@@ -4,12 +4,12 @@ This is a protein complex prediction model based on hypergraph representation le
 
 ## Dependencies
 
-All dependencies are included `environment.yml` in the method folder.
+All dependencies are included `environment.yaml` in the method folder.
 
 You could install all dependencies with `conda`:
 
  ```sh
-   conda env create -f environment.yml
+   conda env create -f environment.yaml
  ```
 
 ## Usage
