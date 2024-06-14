@@ -2,7 +2,7 @@
 
 ## Description
  
-  ![HyperGraphComplex Architecture](data/Figure 2.png)
+  ![HyperGraphComplex Architecture](data/Figure2.png)
 
 π-HyperGraphComplex is a software for predicting protein complexes based on **HyperGraphComplex** algorithm, which integrates high-order topological information from the PPI network and protein sequence features by simultaneously training the encoder and decoder using the HyperGraph Variational Autoencoder (HGVAE). This process generates latent feature vectors for protein complexes. Subsequently, a deep neural network (DNN) is employed to classify candidate protein sets.
 
